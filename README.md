@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d001a,100:4b0082&height=120&section=header"/>
 
 <!-- GIF DO GATO -->
-<img src="COLE_AQUI_O_GIF_DO_GATO" width="300"/>
+<img src="https://pin.it/4axD7AczK" width="300"/>
 
 <br><br>
 
