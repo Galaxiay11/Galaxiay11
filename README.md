@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="cute_cat-ezgif.com-optimize.gif" width="500">
+  <img src="assets/cute_cat.gif" width="500">
 </p>
