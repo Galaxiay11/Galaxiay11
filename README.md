@@ -1,13 +1,8 @@
-<div align="center">
-  
-  <h2> 
-    <font color="#8A2BE2">I AM ALWAYS WATCHING</font> 👁️‍🗨️
-  </h2>
+<p align="center">
 
   <img src="cute_cat.gif" width="500">
 
-  <br>
-  <br>
+</p>
 
   <code>they call me NYM-0S</code>
 
